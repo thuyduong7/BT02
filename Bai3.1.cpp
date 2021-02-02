@@ -20,3 +20,4 @@ int main()
     }
     else cout << "Day khong phai tam giac";
     return 0;
+}
